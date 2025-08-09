@@ -127,7 +127,7 @@ This project focuses on **wireless communication system** with emphasis on **fil
 
 ---
 
-## 🤝 Contributors
+## Contributors
 
 ### For eletronics I:
 
@@ -141,3 +141,4 @@ This project focuses on **wireless communication system** with emphasis on **fil
 - Filipa Correia
 
 - [Tiago Monteiro](https://www.linkedin.com/in/tiago-monteiro-/)
+
