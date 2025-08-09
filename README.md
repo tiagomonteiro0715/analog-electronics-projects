@@ -1,10 +1,14 @@
 # Electronics I & II - Academic Projects
 
-This repository contains academic projects from Electronics I and Electronics II courses at NOVA University.
+This repository contains the final projects from the classes Electronics I and Electronics II courses at NOVA University.
 
-Eletronics I project focus on operational amplifier design 
+In the NOVA FCT faculty in the bachelor of eletrical and computer engineering.
 
-Eletronics II projects focus on a wireless communication system.
+Eletronics I final class project focus on operational amplifier design 
+
+Eletronics II final class project focus on a wireless communication system.
+
+![Circuit](https://github.com/tiagomonteiro0715/analog-electronics-projects/blob/main/Eletronics_II_Design_of_a_wireless_transmitter_and_receiver/wireless_circuit.jpeg)
 
 ## Project Structure
 
@@ -135,4 +139,5 @@ This project focuses on **wireless communication system** with emphasis on **fil
 
 - [Moacir Diniz](https://www.linkedin.com/in/moacirdiniz/)
 - Filipa Correia
+
 - [Tiago Monteiro](https://www.linkedin.com/in/tiago-monteiro-/)
